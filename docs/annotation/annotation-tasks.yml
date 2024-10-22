@@ -1,0 +1,145 @@
+---
+mytasks:
+  - file: main.yml
+    link: main.yml
+    path: tasks/main.yml
+    synopsis: |
+      Main task.
+    description: |
+      Import tasks if enabled.
+    lines: 1,2
+    seealso: []
+    note: []
+    warning: []
+
+  - file: debug.yml
+    link: debug.yml
+    path: tasks/debug.yml
+    synopsis: |
+      Configure debug.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: packages.yml
+    link: packages.yml
+    path: tasks/packages.yml
+    synopsis: |
+      Configure packages.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: dirs.yml
+    link: dirs.yml
+    path: tasks/dirs.yml
+    synopsis: |
+      Configure dirs.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: key.yml
+    link: key.yml
+    path: tasks/key.yml
+    synopsis: |
+      Configure key.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: cert.yml
+    link: cert.yml
+    path: tasks/cert.yml
+    synopsis: |
+      Configure cert.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: conf.yml
+    link: conf.yml
+    path: tasks/conf.yml
+    synopsis: |
+      Configure conf.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: pkglists.yml
+    link: pkglists.yml
+    path: tasks/pkglists.yml
+    synopsis: |
+      Configure pkglists.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: pkglist.yml
+    link: pkglist.yml
+    path: tasks/pkglist.yml
+    synopsis: |
+      Configure pkglist.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: options.yml
+    link: options.yml
+    path: tasks/options.yml
+    synopsis: |
+      Configure options.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+  - file: make.yml
+    link: make.yml
+    path: tasks/make.yml
+    synopsis: |
+      Configure make.
+    description: |
+      Description of the task.
+    lines: 1,2
+    seealso: []
+    notes: []
+    hints: []
+    warnings: []
+
+...
